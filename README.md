@@ -48,6 +48,8 @@ This project involves the schematic design, layout, and simulation of a CMOS 3-i
 
 ```
 ├── Cadence_Layout/
+│ ├── Layout.png
+│ ├── Detail_Layout.png
 │ ├── Layout_DRC_Pass.png
 │ ├── Timing_Verification.png
 ├── Report/
