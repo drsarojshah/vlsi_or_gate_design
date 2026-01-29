@@ -47,7 +47,8 @@ This project involves the schematic design, layout, and simulation of a CMOS 3-i
 ## 📂 File Structure
 
 ```
-├── Code
+├── Code/
+│ ├── DE6_2
 ├── Cadence_Layout/
 │ ├── Layout.png
 │ ├── Detail_Layout.png
